@@ -29,7 +29,7 @@ Just plug the link into your IPTV app — no scripting or setup needed.
 
 | Provider      | EPG Link |
 |---------------|----------|
-| **Himanshu8221**| `https://himanshu-epg.short.gy/epg` |
+| **Himanshu8221**| `https://himanshu-epg.short.gy/Global_epg.xml.gz` |
 
 ---
 
